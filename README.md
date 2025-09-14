@@ -37,3 +37,54 @@ To run this project, you need:
 
 Install dependencies with:
 
+
+## Usage
+
+1. **Upload your dataset** (CSV format) when prompted in the notebook.
+2. **Execute each cell** in sequence to perform data loading, cleaning, analysis, modeling, and evaluation.
+3. **Review the output** for model performance, visualizations, and classification reports.
+
+**Example:**
+
+
+## Model Performance
+
+The project evaluates the following metrics for both **logistic regression** and **random forest**:
+
+| Metric      | Logistic Regression | Random Forest |
+|-------------|---------------------|---------------|
+| Accuracy    | (See your output)   | (See your output) |
+| Precision   | (See your output)   | (See your output) |
+| Recall      | (See your output)   | (See your output) |
+| F1-Score    | (See your output)   | (See your output) |
+| AUC-ROC     | (See your output)   | (See your output) |
+| Error Rate  | (See your output)   | (See your output) |
+
+Replace `(See your output)` with actual numbers from your notebook after training.
+
+## Project Structure
+
+- **Final_Heart_disease_prediction.ipynb**: Main Jupyter notebook for the analysis.
+- **Dataset**: Upload your own CSV or use the included sample (not included in this template; add your actual data file name).
+- **Visualizations**: All plots (histograms, boxplots, heatmaps) are generated inline in the notebook.
+
+## Screenshots
+
+*(If you have sample visual outputs, insert them here with a brief caption.)*
+
+## Contribution
+
+Contributions are welcome! Feel free to:
+
+- **Fork** the repository
+- **Open an issue** for questions or suggestions
+- **Submit a pull request** to improve the code or documentation
+
+## License
+
+This project is open-source. Please specify your license of choice (e.g., MIT, Apache 2.0) if you wish to formalize usage permissions.
+
+---
+
+**This template is ready for immediate use on GitHub—simply fill in your actual model metrics and add any project-specific details.**  
+For more best practices, see [GitHub’s guide on writing READMEs]{https://docs.github.com/github/writing-on-github} and [Make a README]{https://www.makeareadme.com}.
