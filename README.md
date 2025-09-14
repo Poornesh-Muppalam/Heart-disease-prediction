@@ -51,14 +51,16 @@ Install dependencies with:
 
 The project evaluates the following metrics for both **logistic regression** and **random forest**:
 
+
+**Example output (replace with your actual numbers):**
 | Metric      | Logistic Regression | Random Forest |
 |-------------|---------------------|---------------|
-| Accuracy    | (See your output)   | (See your output) |
-| Precision   | (See your output)   | (See your output) |
-| Recall      | (See your output)   | (See your output) |
-| F1-Score    | (See your output)   | (See your output) |
-| AUC-ROC     | (See your output)   | (See your output) |
-| Error Rate  | (See your output)   | (See your output) |
+| Accuracy    | 0.85                | 0.88          |
+| Precision   | 0.84                | 0.86          |
+| Recall      | 0.82                | 0.87          |
+| F1-Score    | 0.83                | 0.86          |
+| AUC-ROC     | 0.89                | 0.91          |
+| Error Rate  | 0.15                | 0.12          |
 
 Replace `(See your output)` with actual numbers from your notebook after training.
 
