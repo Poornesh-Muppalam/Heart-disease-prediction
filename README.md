@@ -62,7 +62,6 @@ The project evaluates the following metrics for both **logistic regression** and
 | AUC-ROC     | 0.89                | 0.91          |
 | Error Rate  | 0.15                | 0.12          |
 
-Replace `(See your output)` with actual numbers from your notebook after training.
 
 ## Project Structure
 
