@@ -70,9 +70,6 @@ Replace `(See your output)` with actual numbers from your notebook after trainin
 - **Dataset**: Upload your own CSV or use the included sample (not included in this template; add your actual data file name).
 - **Visualizations**: All plots (histograms, boxplots, heatmaps) are generated inline in the notebook.
 
-## Screenshots
-
-*(If you have sample visual outputs, insert them here with a brief caption.)*
 
 ## Contribution
 
